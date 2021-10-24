@@ -1,6 +1,6 @@
 {
-  "homepage": "https://famasdev.github.io/eage-fair/",
-  "name": "eagle-fire",
+  "homepage": "https://famasdev.github.io/eagle/",
+  "name": "eagle",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
