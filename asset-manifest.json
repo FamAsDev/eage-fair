@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/eage-fair/static/css/main.0a9ce86d.chunk.css",
-    "main.js": "/eage-fair/static/js/main.52306a13.chunk.js",
-    "main.js.map": "/eage-fair/static/js/main.52306a13.chunk.js.map",
-    "runtime-main.js": "/eage-fair/static/js/runtime-main.8ac39a2e.js",
-    "runtime-main.js.map": "/eage-fair/static/js/runtime-main.8ac39a2e.js.map",
-    "static/js/2.7eaf21c6.chunk.js": "/eage-fair/static/js/2.7eaf21c6.chunk.js",
-    "static/js/2.7eaf21c6.chunk.js.map": "/eage-fair/static/js/2.7eaf21c6.chunk.js.map",
-    "static/js/3.8969cc66.chunk.js": "/eage-fair/static/js/3.8969cc66.chunk.js",
-    "static/js/3.8969cc66.chunk.js.map": "/eage-fair/static/js/3.8969cc66.chunk.js.map",
+    "main.js": "/eage-fair/static/js/main.29664529.chunk.js",
+    "main.js.map": "/eage-fair/static/js/main.29664529.chunk.js.map",
+    "runtime-main.js": "/eage-fair/static/js/runtime-main.f42cc80c.js",
+    "runtime-main.js.map": "/eage-fair/static/js/runtime-main.f42cc80c.js.map",
+    "static/js/2.21eb193c.chunk.js": "/eage-fair/static/js/2.21eb193c.chunk.js",
+    "static/js/2.21eb193c.chunk.js.map": "/eage-fair/static/js/2.21eb193c.chunk.js.map",
+    "static/js/3.a36cf14c.chunk.js": "/eage-fair/static/js/3.a36cf14c.chunk.js",
+    "static/js/3.a36cf14c.chunk.js.map": "/eage-fair/static/js/3.a36cf14c.chunk.js.map",
     "index.html": "/eage-fair/index.html",
     "static/css/main.0a9ce86d.chunk.css.map": "/eage-fair/static/css/main.0a9ce86d.chunk.css.map",
-    "static/js/2.7eaf21c6.chunk.js.LICENSE.txt": "/eage-fair/static/js/2.7eaf21c6.chunk.js.LICENSE.txt",
+    "static/js/2.21eb193c.chunk.js.LICENSE.txt": "/eage-fair/static/js/2.21eb193c.chunk.js.LICENSE.txt",
     "static/media/1.fd3eea44.jpeg": "/eage-fair/static/media/1.fd3eea44.jpeg",
     "static/media/2.c79a394b.jpg": "/eage-fair/static/media/2.c79a394b.jpg",
     "static/media/3.9eadb0ab.jpg": "/eage-fair/static/media/3.9eadb0ab.jpg",
@@ -78,9 +78,9 @@
     "static/media/Services.css": "/eage-fair/static/media/tri.b37c04f8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ac39a2e.js",
-    "static/js/2.7eaf21c6.chunk.js",
+    "static/js/runtime-main.f42cc80c.js",
+    "static/js/2.21eb193c.chunk.js",
     "static/css/main.0a9ce86d.chunk.css",
-    "static/js/main.52306a13.chunk.js"
+    "static/js/main.29664529.chunk.js"
   ]
 }
